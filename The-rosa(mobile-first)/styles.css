@@ -112,10 +112,6 @@ header {
     transition: transform .5s;
 }
 
-.open {
-    overflow: hidden;
-}
-
 .open .menu-toggle > i.fa-times {
     display: block;
 }
